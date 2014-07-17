@@ -4,7 +4,7 @@
  <title>Ahmed Nefzaoui</title>
  <link href="http://anefzaoui.github.io/atom.xml" rel="self"/>
  <link href="http://anefzaoui.github.io/"/>
- <updated>2014-07-16T09:03:46+01:00</updated>
+ <updated>2014-07-17T07:38:47+01:00</updated>
  <id>http://anefzaoui.github.io</id>
  <author>
    <name>Ahmed Nefzaoui</name>
@@ -13,17 +13,44 @@
 
  
  <entry>
-   <title>Contributing to Gaia, the complete guide</title>
-   <link href="http://anefzaoui.github.io/2014/07/16/contribute-to-gaia/"/>
-   <updated>2014-07-16T00:00:00+01:00</updated>
-   <id>http://anefzaoui.github.io/2014/07/16/contribute-to-gaia</id>
+   <title>Contributing to Gaia (Firefox OS' User Interface layer), the complete guide</title>
+   <link href="http://anefzaoui.github.io/2014/07/27/contribute-to-gaia/"/>
+   <updated>2014-07-27T00:00:00+01:00</updated>
+   <id>http://anefzaoui.github.io/2014/07/27/contribute-to-gaia</id>
    <content type="html">&lt;p&gt;I really had to setup this whole jekyll thing to write this post because my previous blogger blog didn&amp;#39;t like me.. Or it was me who didn&amp;#39;t like it..
 &lt;br/&gt;
 Either way let&amp;#39;s get to business.&lt;/p&gt;
 
 &lt;p&gt;&lt;center&gt;
 &lt;img src=&quot;http://i.imgur.com/1BB3SRx.png&quot; align=&quot;center&quot;/&gt;
-&lt;/center&gt;&lt;/p&gt;
+&lt;/center&gt;
+&lt;br/&gt;&lt;/p&gt;
+
+&lt;h2&gt;Table of content&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&quot;#intro&quot;&gt;Intro&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#requirements&quot;&gt;What do you need before starting&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#git1&quot;&gt;Git, Forking and setting up&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#bugzilla1&quot;&gt;Here&#39;s Bugzilla, Now go fishing&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+  &lt;a href=&quot;#gitAndBugzilla&quot;&gt;Git and your Bug&#39;s aftermath&lt;/a&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&quot;#branches&quot;&gt;A branch for your bug, in details&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;#commits&quot;&gt;Commits according to Gaia, what, why and how&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#pr&quot;&gt;Pushing pull requests&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#reviews&quot;&gt;Get your code reviewed and landed in Gaia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#theEnd&quot;&gt;That&#39;s all folks&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;br/&gt;&lt;br/&gt;
+&lt;a name=&quot;intro&quot;&gt;&lt;/a&gt; &lt;/p&gt;
+
+&lt;h2&gt;1 - Intro&lt;/h2&gt;
+
+&lt;p&gt;So you&amp;#39;ve heard about this Firefox OS and you knew enough about it that you are new very encouraged to contribute code&lt;/p&gt;
 </content>
  </entry>
  
