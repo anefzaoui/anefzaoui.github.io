@@ -4,7 +4,7 @@
  <title>Ahmed Nefzaoui</title>
  <link href="http://anefzaoui.github.io/atom.xml" rel="self"/>
  <link href="http://anefzaoui.github.io/"/>
- <updated>2014-07-17T07:38:47+01:00</updated>
+ <updated>2014-07-17T09:07:07+01:00</updated>
  <id>http://anefzaoui.github.io</id>
  <author>
    <name>Ahmed Nefzaoui</name>
@@ -46,11 +46,50 @@ Either way let&amp;#39;s get to business.&lt;/p&gt;
 &lt;/ol&gt;
 
 &lt;p&gt;&lt;br/&gt;&lt;br/&gt;
-&lt;a name=&quot;intro&quot;&gt;&lt;/a&gt; &lt;/p&gt;
+&lt;a name=&quot;intro&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2&gt;1 - Intro&lt;/h2&gt;
 
-&lt;p&gt;So you&amp;#39;ve heard about this Firefox OS and you knew enough about it that you are new very encouraged to contribute code&lt;/p&gt;
+&lt;p&gt;So you&amp;#39;ve heard about this Firefox OS and you knew enough about it that you are new very encouraged to contribute code to its User Interface layer called &amp;quot;Gaia&amp;quot;.
+Of course by now you know that Gaia is completely written in modern web technologies such as HTML5, CSS3 and of course JavaScript.
+&lt;br/&gt;
+In this blog post, I&amp;#39;m going to show you, based on my experience, everything about contributing code to Gaia and having it successfully merged and landed into Firefox OS&amp;#39; code base.&lt;/p&gt;
+
+&lt;p&gt;&lt;a name=&quot;#requirements&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;What do you need before starting&lt;/h2&gt;
+
+&lt;p&gt;&lt;a name=&quot;#git1&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;Git, Forking and setting up&lt;/h2&gt;
+
+&lt;p&gt;&lt;a name=&quot;#bugzilla1&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;Here&amp;#39;s Bugzilla, Now go fishing&lt;/h2&gt;
+
+&lt;p&gt;&lt;a name=&quot;#gitAndBugzilla&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;Git and your Bug&amp;#39;s aftermath&lt;/h2&gt;
+
+&lt;p&gt;&lt;a name=&quot;#branches&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3&gt;A branch for your bug, in details&lt;/h3&gt;
+
+&lt;p&gt;&lt;a name=&quot;#commits&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3&gt;Commits according to Gaia, what, why and how&lt;/h3&gt;
+
+&lt;p&gt;&lt;a name=&quot;#pr&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;Pushing pull requests&lt;/h2&gt;
+
+&lt;p&gt;&lt;a name=&quot;#reviews&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;Get your code reviewed and landed in Gaia&lt;/h2&gt;
+
+&lt;p&gt;&lt;a name=&quot;#theEnd&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;That&amp;#39;s all folks&lt;/h2&gt;
 </content>
  </entry>
  
